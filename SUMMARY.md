@@ -1,12 +1,12 @@
 # Summary
 
-- [LEIA ATENTAMENTE](leia-atentamente.md)
+- [LEIA ATENTAMENTE](leia-atentamente/leia-atentamente.md)
   - [REGRA PRIMORDIAL: BOM SENSO](leia-atentamente/regra-primordial-bom-senso.md)
   - [ADVERTÊNCIAS E PUNIÇÕES](leia-atentamente/advertências-e-punições.md)
   - [Regra Básica de Convivência](leia-atentamente/regra-básica-de-convivência.md)
   - [REGRAS DE FINALIZAÇÕES](leia-atentamente/regras-de-finalizações.md)
   - [TERMO DE COMPROMISSO - SS](leia-atentamente/termo-de-compromisso-ss.md)
-- [DENÚNCIAS](denúncias.md)
+- [DENÚNCIAS](denúncias/denúncias.md)
   - [DENÚNCIAS VIA TICKET](denúncias/denúncias-via-ticket.md)
   - [DENÚNCIAS VIA SUPORTE](denúncias/denúncias-via-suporte.md)
 - [REGRAS BÁSICAS DE RP](regras-básicas-de-rp.md)
