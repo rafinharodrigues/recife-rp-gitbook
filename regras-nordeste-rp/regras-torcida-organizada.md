@@ -1,3 +1,0 @@
-# REGRAS TORCIDA ORGANIZADA
-
-_(sem conteúdo)_

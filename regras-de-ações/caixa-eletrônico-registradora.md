@@ -1,3 +1,0 @@
-# CAIXA ELETRÔNICO / REGISTRADORA
-
-_(sem conteúdo)_
