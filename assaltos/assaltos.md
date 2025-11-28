@@ -1,7 +1,7 @@
 # ASSALTOS
 
 * _**Horário permitido: das 00:00 às 06:00 (horário do JOGO**_
-* _**Local permitido: em toda cidade, com exceção aos locais de zonas seguras.**_
+* _**Local permitido: apenas no Norte.**_
 * _**Em horários de assaltos será permitido a realização de rondas ostensivas, com aviso prévio (balão) da unidade comandante da Ronda.**_
 
 ## ✅ O que é PERMITIDO:
