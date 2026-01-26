@@ -1,24 +1,40 @@
 # DENÚNCIAS VIA TICKET
 
-## Requisitos para Denúncias
+## 1. Requisitos para Denúncias
 
-- **Toda denúncia só será válida se for acompanhada de um clipe completo da ação reportada.**
-- O clipe deve incluir **todo o contexto**, desde o início até o fim da situação, para que a equipe de administração possa analisar corretamente o ocorrido.
+* Toda denúncia **somente será considerada válida** se estiver acompanhada de um **clipe completo**, com **duração mínima de 01 (um) minuto**, referente à ação reportada.
+*   O clipe deverá conter, **obrigatoriamente**, todo o **contexto da situação**, desde o início até o seu desfecho, incluindo:
 
-## Exemplo de Contexto Completo
+    * **ID do denunciado visível na tela**, de forma clara e legível.
+    * Áudio do **denunciante**;
+    * Áudio do **denunciado**;
+    * **No mínimo 01 (um) minuto de gravação contínua;**
 
-- Se a situação começou com a saída do seu QG para uma ação de rua, o clipe deve incluir:
-    1. **O momento em que você saiu do QG.**
-    2. **Toda a sequência de eventos que levou à ação.**
-    3. **O desfecho completo da ocorrência.**
+    A ausência de qualquer um dos itens acima resultará na invalidação da denúncia, sem possibilidade de análise pela administração.
 
-## Por que o clipe completo é necessário?
+## 2. Prazo para Abertura da Denúncia
 
-- Permite que a equipe avalie o contexto completo e tome decisões justas.
-- Garante uma **experiência de atendimento mais eficiente e transparente.**
+* A denúncia deverá ser **obrigatoriamente aberta no prazo máximo de 24 (vinte e quatro) horas** contadas a partir do ocorrido.
+* Denúncias realizadas **após esse prazo não serão aceitas**, independentemente do motivo apresentado.
 
-> Lembre-se: **clips incompletos ou fora de contexto serão desconsiderados.** Seja detalhista ao reunir as provas para sua denúncia.
+## 3. Prazo para Abertura da Denúncia
 
----
+* A denúncia deverá ser **obrigatoriamente aberta no prazo máximo de 24 (vinte e quatro) horas** contadas a partir do ocorrido.
+* Denúncias realizadas **após esse prazo não serão aceitas**, independentemente do motivo apresentado.
 
-[Previous: DENÚNCIAS](#) | [Next: DENÚNCIAS VIA SUPORTE](#)
+## 4. Prazo de Resposta no Ticket
+
+* O denunciante deverá **responder às solicitações da equipe administrativa no ticket no prazo máximo de 24 (vinte e quatro) horas.**
+* O n**ão cumprimento do prazo** acarretará no **encerramento automático do ticket**, sem possibilidade de reabertura.
+
+<details>
+
+<summary>Lembre-se: <strong>clips incompletos ou fora de contexto serão desconsiderados.</strong> Seja detalhista ao reunir as provas para sua denúncia.</summary>
+
+
+
+</details>
+
+***
+
+[Previous: DENÚNCIAS](denúncias-via-ticket.md) | [Next: DENÚNCIAS VIA SUPORTE](denúncias-via-ticket.md)

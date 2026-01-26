@@ -1,34 +1,39 @@
 # DENÚNCIAS VIA SUPORTE
 
-## Como Realizar uma Denúncia
+## 1. Como Realizar uma Denúncia
 
-1. **Acesse a Sala Correta:**
-   - Utilize a sala “❓|abrir-ticket” para registrar sua denúncia.
-2. **Forneça Provas e Relato:**
-   - Anexe **provas em forma de vídeos com áudio** que detalhem a situação.
-   - Inclua **testemunhas**, se possível.
-   - Adicione um **relato por escrito**, explicando o ocorrido de forma clara e objetiva.
+1. **Acesso ao Canal Correto:**
+   * O registro de denúncias deverá ser realizado **exclusivamente** por meio do canal **〔🔖〕ticket.**
 
----
+Denúncias realizadas fora do canal indicado **não serão analisadas.**
 
-## Atenção ao Atendimento no Suporte
+## **2. Fornecimento de Provas e Relato**
 
-- **Aguarde a convocação da staff:**
-  - O suporte será iniciado apenas quando a staff solicitar a presença dos envolvidos.
-- **Casos de Atendimento Imediato:**
-  - Apenas situações extremas, como **Dark RP** ou **uso de hacks**, serão avaliadas imediatamente no suporte.
+* É **obrigatória** a anexação de **provas em formato de vídeo**, contendo **áudio**, que demonstrem de forma clara e completa a situação denunciada.
+* O denunciante deverá incluir um **relato por escrito**, descrevendo o ocorrido de maneira objetiva, clara e cronológica, a fim de possibilitar a correta análise pela equipe administrativa.
 
----
+## 3. Prazo de Resposta no Ticket
 
-## Prazos e Avaliação
+* O denunciante deverá **responder às solicitações da equipe de suporte no prazo máximo de 24 (vinte e quatro) horas.**
+* O **não cumprimento do prazo** resultará no **encerramento automático do ticket**, sem possibilidade de continuidade da análise.
 
-- **Provas ou Testemunhas:**
-  - Denúncias sem provas concretas ou testemunhas não serão avaliadas.
-- **Abertura do Ticket:**
-  - É obrigatório abrir um ticket informando a situação e anexando as provas antes de qualquer atendimento.
-- **Prazo para Resposta:**
-  - A equipe terá até **24 horas** para analisar a denúncia e iniciar o atendimento.
+## 4. Prazos e Avaliação de Denúncias
 
----
+**4.1 Provas**
 
-Lembre-se: A apresentação de provas claras e completas agiliza o atendimento e garante uma análise justa. Evite subir ao suporte sem seguir os procedimentos acima.
+* Denúncias s**em provas concretas não serão avaliadas pela equipe administrativa**, exceto nos casos em que um **ADM Master+ tenha presenciado diretamente a infração.**
+
+**4.2 Abertura do Ticket**
+
+* É **obrigatório** abrir um ticket no canal adequado, informando detalhadamente a situação e **anexando todas as provas disponíveis**, antes de solicitar qualquer atendimento administrativo.
+* Denúncias **sem ticket ou sem anexos obrigatórios** não serão analisadas.
+
+***
+
+<details>
+
+<summary>Lembre-se: A apresentação de provas claras e completas agiliza o atendimento e garante uma análise justa. Evite subir ao suporte sem seguir os procedimentos acima.</summary>
+
+
+
+</details>
