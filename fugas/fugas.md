@@ -2,22 +2,66 @@
 
 ## 1. Aplicação da Regra
 
-A regra **FUGA** se aplica a qualquer situação onde houver início de acompanhamento policial, incluindo:
+1.1 Situações Abrangidas
 
-* Fuga de abordagem policial;
-* Fuga após roubo de caixinha ou registradora;
-* Fuga após venda de drogas;
-* Qualquer outra situação que resulte em perseguição.
+*   A regra de Fuga se aplica a qualquer situação em que haja início de acompanhamento policial, incluindo, mas não se limitando a:
 
-🚫 **Exceção:** Se a fuga ocorrer após uma **ação blipada** (ex: assalto a banco) e for **negociada uma fuga entre polícia e bandidos**, valerão as condições impostas na negociação. Nesse caso, esta regra geral não se aplica.
+    * Fuga após abordagem policial;
+    * Fuga após roubo de caixinha ou registradora;
+    * Fuga após venda de drogas;
+    * Qualquer outra situação que resulte em perseguição policial.
+
+    **Exceção**
+* Se a fuga ocorrer após uma ação blipada (ex.: assalto a banco) e houver acordo de negociação entre polícia e criminosos, valerão as condições impostas na negociação, não se aplicando esta regra geral.
+
+1.2 Regras de Patrulhamento em Favelas
+
+* Caso o indivíduo adentre uma favela da qual não pertence, estará sujeito a punição conforme regras gerais da cidade.
+* É proibido realizar fuga dentro da favela.
+* Caso o indivíduo adentre a favela da qual faz parte, a polícia poderá invadir o local sem aviso prévio.
+
+1.3 Limite de Forças e Equipamentos
+
+* O limite padrão de acompanhamento é:
+  * 3 viaturas;
+  * 1 unidade GTM (3 motocicletas);
+  * 1 helicóptero.
+* Prioridade obrigatória: fuga limpa em situações envolvendo caixa registradora, corridas ilegais e vendas de drogas.
+* Proibido: uso de helicópteros para iniciar esses crimes.
+
+1.4 Intervenções Policiais
+
+* É permitido atirar nos pneus do veículo quando o fugitivo:
+* Em ocorrências envolvendo disparos, a polícia poderá solicitar apoio, exceto em ações fechadas.
+  * Atropelar outros jogadores;
+  * Exibir arma de fogo;
+  * Representar risco iminente aos policiais.
+
+Após 3 pneus furados, fica autorizado o box (bloqueio) completo do veículo, com objetivo de imobilizá-lo, sem permitir bate-bate.
+
+1.5 Limitação para Policiais em Motocicleta
+
+* Policiais que embarcarem em motocicletas e sofram acidentes ou caiam da moto devem:
+  * Encerrar imediatamente a participação na ocorrência;
+  * Não poderão retomar o acompanhamento, mesmo que a fuga continue a pé.
+* Exceção: retorno permitido apenas se solicitado apoio em Código 5.
 
 ## 2. Fuga Limpa – Primeiros 5 Minutos
 
-🚓 **A POLÍCIA NÃO PODE:**
+**Restrições à Atuação Policial**
 
-* Atirar contra o veículo ou ocupantes;
-* Colidir de propósito (ex: bater na traseira);
-* Utilizar barreiras ou cones para parar o carro.
+Durante o período de fuga limpa, a polícia está expressamente proibida de:
+
+* Atirar contra o veículo ou seus ocupantes;
+* Colidir propositalmente com o veículo em fuga, incluindo batidas traseiras;
+* Utilizar barreiras, cones ou qualquer outro meio físico para interromper a fuga;
+* Realizar cercos ou bloqueios estratégicos;
+* Abrir Código 3, independentemente de comunicação via rádio;
+* Exceder o limite de contingente permitido para a ocorrência.
+
+**Capotamento**
+
+* Caso uma viatura capote durante a perseguição, os policiais envolvidos deverão dar QTA (quebra total da ação), encerrando imediatamente sua participação.
 
 ✅ **A POLÍCIA PODE:**
 
@@ -38,14 +82,24 @@ A viatura se posiciona em uma rua para realizar o cerco tático. Ao perceber que
 
 ## 3. Fuga a Pé Durante a Fuga Limpa
 
-Caso o carro do bandido fique preso ou encurralado:
+### Situações Específicas durante a Fuga
 
-* Inicia-se **fuga a pé**;
+1. **Veículo do Bandido Imobilizado ou Encurralado**
 
-🚫 **A POLÍCIA NÃO PODE:**
+Nos casos em que o veículo do bandido fique preso, imobilizado ou encurralado, aplicam-se as seguintes diretrizes:
+
+* A fuga passa a ser obrigatoriamente a pé;
+* Em caso de capotamento, desde que os pneus permaneçam intactos, a fuga poderá continuar;
+* Caso 02 (dois) ou mais pneus sejam perdidos durante a fuga, fica liberado o uso de todo o contingente permitido, sendo autorizado o block (bloqueio);
+* Ao ser constatado visual claro do bandido utilizando rádio, fica liberado o uso do teaser.
+
+2. Restrições à Atuação Policial
+
+É expressamente proibido à polícia:
 
 * Algemar à distância (“algemar por Wi-Fi”);
-* Segurar no “H” antes do suspeito estar no chão.
+  * Em caso de reincidência, será aplicada punição administrativa da cidade;
+* Segurar a tecla “H” antes que o suspeito esteja completamente no chão e imobilizado.
 
 ✅ **A POLÍCIA PODE:**
 
@@ -53,78 +107,129 @@ Caso o carro do bandido fique preso ou encurralado:
 
 ## 4. Após os 5 Minutos de Fuga Limpa
 
-:white\_check\_mark: _**A POLÍCIA PODE:**_&#x20;
+### **Ações Permitidas e Proibidas Após 5 Minutos de Fuga**
 
-_**APÓS OS 5 MIN. É LIBERADO CÓDIGO 3 (ATIRAR NOS PNEUS), E A CADA 2 MIN. UM PNEU SERÁ ALVEJADO**_
+#### Ações Permitidas à Polícia
 
-_**Após 5 minutos de perseguição, sempre que o indivíduo em fuga:**_
+Após o período inicial de 05 (cinco) minutos de fuga, fica autorizado à polícia:
 
-_**Subir em calçadas, gerando risco à vida de cidadãos; ou cometer atos de PG, ultrapassando o limite permitido;**_
+* Realizar cercos em becos e ruas sem saída, com o objetivo de conter a fuga.
 
-_**Fica autorizado 1 (um) disparo controlado no pneu do veículo.**_
+Observação:\
+Cercos realizados de forma indevida, incluindo práticas como bate-bate proposital, estarão sujeitos a punições administrativas, conforme avaliação da administração.
 
-_**Regras adicionais:**_
+#### Ações Proibidas ao Bandido
 
-_**Agora são permitidos até 3 atos de PG durante uma fuga antes da aplicação da medida.**_
+Durante e após a fuga, o bandido não poderá:
 
-_**Entrar em becos/vielas onde seja necessário passar por pequenas calçadas não será considerado e não autoriza o disparo.**_
+* Realizar a prática conhecida como “desce e quebra”, caracterizada por descer do veículo e iniciar troca de tiros imediata;
+* Solicitar apoio armado de terceiros durante a fuga.
 
-Encerrado o tempo da fuga limpa, o bandido poderá:
+## 5. SITUAÇÕES ESPECIAIS (MESMO DURANTE A FUGA LIMPA).
 
-* Realizar um “desce quebra” (descer do veículo e iniciar troca de tiros);
-* Fugir em direção à **favela**;
-* Solicitar **apoio armado**.
+**Quebra da Regra de Fuga Limpa — Exceções**
 
-## 5. Fuga em Favela
+* As situações abaixo autorizam a quebra da regra de fuga limpa por parte da polícia, mesmo durante os 05 (cinco) primeiros minutos de fuga, desde que respeitados os limites estabelecidos:
 
-_**Só será permitido se você fizer parte da mesma, após os cinco minutos.**_&#x20;
+**Troca de Veículo**
 
-_**A policia poderá invadir sem aviso prévio DENTRO DE 5MIN CORRIDOS.**_
+* Caso o bandido troque de veículo mais de uma vez, a polícia fica autorizada a abrir Código 3, realizando disparos exclusivamente nos pneus, de forma proporcional e cautelosa, mesmo dentro dos 5 minutos.
+* É permitida apenas 01 (uma) troca de veículo durante a fuga, sem quebra da regra de fuga limpa.
 
-_**Se entrarem em favelas que não fazem parte, serão punidos pela Cúpula.**_&#x20;
+**Situações Específicas**
 
-_**A responsabilidade de identificar o(s) individuo(s) que invadiram (caso não faça parte da mesma) é dos membros da facção invadida e deverá ser repassada a cúpula.**_&#x20;
+* Caso o fugitivo caia da motocicleta e retorne ao veículo, será considerada troca de veículo.
+* Caso a polícia consiga dar cabeçada e o fugitivo caia do veículo, a ocorrência passa a ser considerada fuga a pé.
 
-## 6 REGRAS DE FUGA COM USO DE AERONAVES&#x20;
+**Proibição de Uso de Aeronaves e Embarcações**
 
-_**6.1 -  Fuga Aérea – Primeiros 5 Minutos (“Fuga Limpa Aérea”) Durante os 5 primeiros minutos após o início da fuga aérea:**_
+* É expressamente proibido ao fugitivo utilizar helicópteros, barcos ou qualquer tipo de aeronave ou embarcação para iniciar, auxiliar ou concluir a fuga, sem exceções.
 
-:no\_entry\_sign: _**A POLÍCIA NÃO PODE:**_&#x20;
+**Comunicação Detectável (Rádio ou Celular)**
 
-_**● Efetuar disparos contra a aeronave;**_&#x20;
+* Caso a polícia ouça, de forma clara e detectável, o bandido solicitando apoio por rádio ou celular, fica liberado imediatamente o Código 5, sendo permitidos disparos nos pneus.
+* Se a solicitação de apoio ocorrer durante fuga a pé, fica autorizado o uso de taser.
 
-_**● Colidir intencionalmente (ex: helicóptero policial batendo em helicóptero fugitivo);**_&#x20;
+**TROCA DE VEÍCULO POR PARTE DOS BANDIDOS.**
 
-_**● Forçar pouso derrubando a aeronave;**_
+* A polícia pode adicionar mais 1 viatura (totalizando 4 viaturas).
+* Importante: Mesmo com a adição de nova viatura, os GTMs que saíram não podem retornar.
+* Se o bandido cair da moto:
+* Deve iniciar fuga a pé;
+* Se violar isso (ex: pegar a mesma moto que caiu), será considerado troca de veículo, autorizando a adição de 1 viatura extra pela polícia.
 
-:white\_check\_mark: _**A POLÍCIA PODE:**_&#x20;
+**Perda de Visual**
 
-_**● Realizar acompanhamento visual e rastreamento;**_&#x20;
+* Em caso de perda total de visual do indivíduo em fuga, a polícia terá o prazo máximo de 05 (cinco) minutos para localizá-lo.
+* Caso o indivíduo seja reencontrado dentro desse prazo, será considerado novo início de acompanhamento, iniciando-se nova contagem de tempo de fuga.
+* Caso o indivíduo não seja localizado dentro do prazo estipulado, a ocorrência deverá ser encerrada, não sendo permitido retomar a perseguição com base na ocorrência anterior.
 
-_**● Reportar rota e altitude para viaturas terrestres;**_&#x20;
+## 6. Uso da Força Letal — Código 5
 
-_**● Solicitar apoio tático de solo (cerco ou interceptação); O BANDIDO PODE:**_&#x20;
+A polícia está autorizada a utilizar força letal (Código 5) exclusivamente nas seguintes situações:
 
-_**● Trocar de aeronave em local seguro (apoio de outro piloto);**_&#x20;
+* Quando o bandido abrir fogo contra a polícia e/ou terceiros;
+* Quando o bandido tentar roubar ou tomar posse de QSV, unidades GTM ou aeronaves policiais;
+* Quando o bandido estiver em fuga e se jogar na água, caracterizando risco elevado e tentativa de evasão extrema.
 
-_**● Pousar em local seguro e iniciar fuga a pé ou veículo terrestre;**_&#x20;
+Qualquer uso de força letal fora das hipóteses acima será considerado infração grave, estando sujeito às penalidades previstas no regulamento do servidor.
 
-_**● Não pode atirar de dentro da aeronave durante o tempo de fuga limpa; Obs: O acompanhamento só será considerado válido após o lançamento do informe na cidade (balão), comunicando oficialmente o início da abordagem.**_
+## 7. REGRAS DE FUGA COM USO DE AERONAVES&#x20;
 
-_**6.2 Após os 5 Minutos de Fuga Limpa Aérea Encerrado o período de fuga limpa:**_
+**7.1 Fuga Aérea — Primeiros 5 Minutos (“Fuga Limpa Aérea”)**
 
-:white\_check\_mark: _**A POLÍCIA PODE:**_&#x20;
+Durante os 05 (cinco) primeiros minutos após o início da fuga aérea, a situação será considerada Fuga Limpa Aérea, aplicando-se as seguintes diretrizes:
 
-_**● Efetuar disparos para danificar a aeronave (sem disparar de forma proposital para atingir diretamente o piloto); Obs: Porém, em caso de abate acidental deve ser prestado apoio aos indivíduos.**_
+**Restrições à Atuação Policial**
 
-&#x20;_**● Tentar forçar pouso por manobra estratégica (sem colisão direta); ● Abater os tripulantes caso eles disparem primeiro contra os policiais;**_
+Durante o período de fuga limpa aérea, a polícia não poderá:
 
-:no\_entry\_sign: _**A POLÍCIA NÃO PODE:**_&#x20;
+* Efetuar disparos contra a aeronave;
+* Realizar colisões intencionais, incluindo manobras de impacto entre aeronaves;
+* Forçar pouso por meio de derrubada da aeronave.
 
-_**● Continuar o confronto aéreo após pouso e rendição do suspeito. (Guardar arma e levantar as mãos) O BANDIDO PODE:**_&#x20;
+**Ações Permitidas à Polícia**
 
-_**● Efetuar pouso tático em local remoto e tentar fuga a pé**_
+Durante a fuga limpa aérea, a polícia poderá:
 
-_**● Realizar “desce quebra” (troca de tiros) após pouso ou no ar;**_
+* Realizar acompanhamento visual e rastreamento da aeronave;
+* Reportar rota, direção e altitude às viaturas terrestres;
+* Solicitar apoio tático de solo, incluindo cerco e interceptação terrestre.
 
-&#x20;_**● Solicitar apoio armado;**_
+**Ações Permitidas ao Bandido**
+
+Durante o período de fuga limpa aérea, o bandido poderá:
+
+* Trocar de aeronave em local seguro, com apoio de outro piloto;
+* Realizar pouso em local seguro e iniciar fuga a pé ou em veículo terrestre;
+* Não é permitido atirar de dentro da aeronave durante o período de fuga limpa.
+
+Observação:\
+O acompanhamento aéreo somente será considerado válido após o lançamento do informe oficial na cidade (balão), comunicando formalmente o início da abordagem.
+
+**7.2 Após o Encerramento da Fuga Limpa Aérea (Após 5 Minutos)**
+
+Encerrado o período de fuga limpa aérea, aplicam-se as seguintes regras:
+
+**Ações Permitidas à Polícia**
+
+A polícia poderá:
+
+* Efetuar disparos com o objetivo de danificar a aeronave, sendo vedada a intenção direta de atingir o piloto;
+  * Observação: em caso de abate acidental, é obrigatório prestar apoio imediato aos envolvidos;
+* Tentar forçar pouso por meio de manobras estratégicas, sem colisão direta;
+* Abater os tripulantes caso estes disparem primeiro contra os policiais.
+
+**Restrições à Atuação Policial**
+
+A polícia não poderá:
+
+* Prosseguir com confronto aéreo ou terrestre após pouso e rendição do suspeito, caracterizada por arma guardada e mãos levantadas.
+
+**Ações Permitidas ao Bandido**
+
+Após o encerramento da fuga limpa aérea, o bandido poderá:
+
+* Realizar pouso tático em local remoto e tentar fuga a pé;
+* Realizar “desce e quebra”, caracterizado por troca de tiros, no ar ou após o pouso;
+* Solicitar apoio armado, respeitando as demais regras do servidor.
