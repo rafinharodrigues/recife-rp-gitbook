@@ -32,10 +32,11 @@
 1.4 Intervenções Policiais
 
 * É permitido atirar nos pneus do veículo quando o fugitivo:
-* Em ocorrências envolvendo disparos, a polícia poderá solicitar apoio, exceto em ações fechadas.
   * Atropelar outros jogadores;
   * Exibir arma de fogo;
   * Representar risco iminente aos policiais.
+
+Em ocorrências envolvendo disparos, a polícia poderá solicitar apoio, exceto em ações fechadas.
 
 Após 3 pneus furados, fica autorizado o box (bloqueio) completo do veículo, com objetivo de imobilizá-lo, sem permitir bate-bate.
 
@@ -113,10 +114,10 @@ Nos casos em que o veículo do bandido fique preso, imobilizado ou encurralado, 
 
 Após o período inicial de 05 (cinco) minutos de fuga, fica autorizado à polícia:
 
-* Realizar cercos em becos e ruas sem saída, com o objetivo de conter a fuga.
+* Realizar bloqueios em becos e ruas sem saída, com o objetivo de conter a fuga.
 
 Observação:\
-Cercos realizados de forma indevida, incluindo práticas como bate-bate proposital, estarão sujeitos a punições administrativas, conforme avaliação da administração.
+Bloqueios realizados de forma indevida, incluindo práticas como bate-bate proposital, estarão sujeitos a punições administrativas, conforme avaliação da administração.
 
 #### Ações Proibidas ao Bandido
 
@@ -170,7 +171,7 @@ A polícia está autorizada a utilizar força letal (Código 5) exclusivamente n
 
 * Quando o bandido abrir fogo contra a polícia e/ou terceiros;
 * Quando o bandido tentar roubar ou tomar posse de QSV, unidades GTM ou aeronaves policiais;
-* Quando o bandido estiver em fuga e se jogar na água, caracterizando risco elevado e tentativa de evasão extrema.
+* Quando o bandido estiver em fuga e se jogar ou entrar na água, caracterizando risco elevado e tentativa de evasão extrema.
 
 Qualquer uso de força letal fora das hipóteses acima será considerado infração grave, estando sujeito às penalidades previstas no regulamento do servidor.
 

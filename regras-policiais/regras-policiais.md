@@ -89,7 +89,7 @@
 2.  **Quantidade de Viaturas por Acompanhamento:**
 
     * Limite padrão de acompanhamento:
-      * 3 viaturas + 3 unidades GTM + 1 helicóptero.
+      * 3 viaturas + 1 unidade GTM + 1 helicóptero.
     * Sobre GTM:
       * 3 policiais da GTM equivalem a 1 viatura para fins de acompanhamento;
       * Para cada acompanhamento, é permitido somente 1 (uma) unidade GTM.<br>
