@@ -23,7 +23,7 @@
 
 5.1 Desativação de Serviço
 
-* Todos os policiais devem desativar o serviço policial (toggle) ao sair da cidade ou ao realizar qualquer atividade fora do âmbito da polícia.&#x20;
+* Todos os policiais devem desativar o serviço policial (toggle) ao sair da cidade ou ao realizar qualquer atividade fora do âmbito da polícia.
 
 5.2 Desativação de Serviço
 
@@ -62,12 +62,10 @@
 1. **Princípio:**
    * Os policiais devem prezar pela vida de todos os envolvidos, incluindo reféns, em qualquer situação de atuação.
    * O descumprimento desta regra pode gerar aplicação de penalidade máxima, conforme critérios abaixo.
-   * Após confirmação dos critérios acima, a pena máxima será aplicada seguindo os protocolos estipulados no manual de penalidades da Nordeste.
+   * Após confirmação dos critérios acima, a pena máxima será aplicada seguindo os protocolos estipulados no manual de penalidades da Recife.
    * A medida deve ser comunicada imediatamente aos envolvidos e registrada nos canais oficiais, garantindo transparência e clareza no processo.
    * A pena máxima é limitada a 200 meses, independentemente da soma das infrações.
-   *   Em casos de Combat Logging, a prisão poderá ser aplicada com pena máxima, desde que haja provas concretas (clipes ou vídeos) anexadas ao relatório policial.
-
-
+   * Em casos de Combat Logging, a prisão poderá ser aplicada com pena máxima, desde que haja provas concretas (clipes ou vídeos) anexadas ao relatório policial.
 2. **Condição para Aplicação da Pena Máxima:**
    * Em ocorrências classificadas como Código 5 de Rua, se for constatado que 5 (cinco) ou mais oficiais foram abatidos durante o evento, a penalidade máxima será aplicada caso os criminosos percam e sejam presos.
 3. **Procedimentos de Verificação:**
