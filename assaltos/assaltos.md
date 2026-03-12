@@ -6,8 +6,8 @@
 ## ✅ O que é PERMITIDO:
 
 * _**Assaltos realizados por players com vínculo em facções ou empregos legais.**_\
-  _**Uso liberado de qualquer armamento durante o horário permitido.**_\
-  _**Assalto somente com no mínimo 2 participantes  (**_:x:_**proibido assaltar sozinho).**_
+  &#xNAN;_**Uso liberado de qualquer armamento durante o horário permitido.**_\
+  &#xNAN;_**Assalto somente com no mínimo 2 participantes (**_:x:_**proibido assaltar sozinho).**_
 * _**Loot de itens ilegais está liberado (**_:x: _**proibido loot de itens VIP).**_
 * _**Para se render, o player deve descer do veículo, levantar as mãos e permanecer parado.**_
 * _**Caso o player corra ou se movimente mesmo com as mãos levantadas, será considerado reação e poderá ser abatido.**_
