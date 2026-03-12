@@ -169,7 +169,7 @@ A polícia poderá revistar o indivíduo nas seguintes situações:
 
 ### 6. Progressão de Força
 
-A Polícia da NORDESTE RP adota o princípio da progressão gradual e proporcional da força, aplicável conforme o comportamento do indivíduo e a gravidade da situação.
+A Polícia da RECIFE RP adota o princípio da progressão gradual e proporcional da força, aplicável conforme o comportamento do indivíduo e a gravidade da situação.
 
 1. **Presença Policial**
 
