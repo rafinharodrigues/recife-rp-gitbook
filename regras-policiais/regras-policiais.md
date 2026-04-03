@@ -18,7 +18,7 @@
 4. **Regras de Apreensão e Revistas**
    * A revista em flagrante é permitida, não sendo necessário o registro de residual para sua realização.
    * A apreensão de veículos só poderá ocorrer quando o indivíduo estiver em Código 5.
-   * O uso de máscaras, coldres, coletes ou qualquer equipamento militar pode autorizar o policial a realizar abordagem e/ou revista, respeitando sempre os princípios de roleplay e motivação válida.
+   * O uso de máscaras, coldres, coletes ou qualquer equipamento militar pode autorizar o policial a realizar abordagem e/ou revista, desde que tenha o registro do residual e respeitando sempre os princípios de roleplay e motivação válida.
 5. **Conduta em Serviço:**
 
 5.1 Desativação de Serviço
